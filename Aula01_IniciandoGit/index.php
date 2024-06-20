@@ -22,6 +22,7 @@
     -> ver em qual repositório está o projeto: git remote -v
     -> Conectar no git remoto: git remote add origin (URL do git hub onde é para ficar o projeto)
     -> puxar do repositório remoto para o local: git pull origin master
+    -> Enviar para o repositório remoto: git push origin master
 -->
     
 </body>
